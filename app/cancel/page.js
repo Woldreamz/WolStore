@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function CancelPage() {
     return (
         <div>
-            Gutted!!
+            Dang!!
             <Link>Back home</Link>
         </div>
     )
