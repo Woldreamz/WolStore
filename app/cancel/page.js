@@ -4,7 +4,7 @@ export default function CancelPage() {
     return (
         <div>
             Dang!!
-            <Link>Back home</Link>
+            <Link href="{'/'}">Back Home</Link>
         </div>
     )
 }
